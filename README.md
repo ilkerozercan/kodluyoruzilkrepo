@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 
-![](ss.jpg)
-bu repo [kodluyoruz] (https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![](ss.png)
+bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Intsallation
 
@@ -28,5 +28,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License 
 
-[MIT] (https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
 
